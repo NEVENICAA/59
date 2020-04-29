@@ -1,0 +1,27 @@
+.naslov  {color: #520066; 
+	      font-style: italic; 
+	      font-size: 40px; 
+	      padding-left: 300px; 
+	      padding-top: 80px;}
+
+.podnaslov {color: #520066; font-size: 20px; font-style: italic; }  
+
+body {background-image: url(kuba.jpg);  
+	  background-size: cover;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-repeat: no-repeat;}    
+
+	  .topnav {background-image:url(kuba.jpg); }
+
+.topnav a{
+	float: left; 
+	color: #1a0000; 
+	text-align: center;
+	padding: 200px;
+ 	padding-top: 30px;
+	text-decoration: none; 
+	font-size: 25px;
+	font-style: italic;
+}
+  
